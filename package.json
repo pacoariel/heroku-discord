@@ -1,0 +1,26 @@
+{
+  "name": "projekt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/.",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "@types/node": "^13.9.0",
+    "better-sqlite3-helper": "^2.2.1",
+    "bufferutil": "^4.0.1",
+    "chalk": "^3.0.0",
+    "discord.js": "^11.4.2",
+    "libsodium-wrappers": "^0.7.6",
+    "quick.db": "^7.0.0-b22",
+    "typescript": "^3.8.3",
+    "util": "^0.12.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
