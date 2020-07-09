@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.1.0",
+    "@types/jquery": "^3.5.0",
     "@types/node": "^13.9.0",
     "better-sqlite3-helper": "^2.2.1",
     "bufferutil": "^4.0.1",
