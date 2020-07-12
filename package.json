@@ -19,9 +19,12 @@
     "libsodium-wrappers": "^0.7.6",
     "quick.db": "^7.0.0-b22",
     "typescript": "^3.8.3",
+    "underscore": "^1.10.2",
     "util": "^0.12.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/underscore": "^1.10.7"
+  },
   "keywords": [],
   "description": ""
 }
