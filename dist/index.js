@@ -338,7 +338,7 @@ client.on("message", (message) => __awaiter(void 0, void 0, void 0, function* ()
             db.set(`${message.guild}.welcomeChannelId`, `${newID}`);
             message.channel.send(`Changed welcomeChannel id to ${db.get(`${message.guild}.welcomeChannelId`)}`);
             break;
-        case `welcomeChanne;`:
+        case `welcomeChannel`:
             if (!message.member.hasPermission("ADMINISTRATOR"))
                 return message.reply("Sorry, you don't have permissions to use this!");
             message.channel.send(`Current welcome channel is ${db.get(`${message.guild}.welcomeChannelId`)}`);
