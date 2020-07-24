@@ -15,6 +15,7 @@
     "better-sqlite3-helper": "^2.2.1",
     "bufferutil": "^4.0.1",
     "chalk": "^3.0.0",
+    "discord-giveaways": "^4.2.1",
     "discord.js": "^11.4.2",
     "libsodium-wrappers": "^0.7.6",
     "ms": "^2.1.2",
